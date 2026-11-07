@@ -1,0 +1,6 @@
+{
+  "name": "آموزش و آزمون درس دوم عربی دهم",
+  "description": "سامانه جامع آموزشی، کوییز تستی و بازی‌های تعاملی درس دوم عربی پایه دهم (المواعظ العددیة، اعداد، ساعت و تمارین)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
